@@ -1,0 +1,4 @@
+rockpapersimulator.spec
+rockpapersimulator-test.spec
+dist
+__pycache__
